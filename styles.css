@@ -1,0 +1,277 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url("images/back.jpg");
+ }
+.nav-bar{
+    
+    
+    display: inline-flex;
+    background: url("images/back.jpg");
+    width: 100%;
+    height: 100px;
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 0px;
+
+    
+}
+
+
+.heading{
+    margin-left: 100px;
+    font-family: sans-serif;
+    margin-top: 30px;
+    color: #eeeeee;
+   
+    
+}
+.lc{
+    height: 200px;
+    width: 200px;
+}
+.git{
+    height: 200px;
+    width: 200px;
+}
+.inst{
+    height: 200px;
+    width: 200px;
+}
+.link{
+    height: 200px;
+    width: 200px;
+}
+.leetcode{
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+}
+
+.github{
+    height: 200px;
+    width: 200px;
+}
+
+.linkedin{
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+}
+
+.instagram{
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+}
+.social{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+.rt{
+    color: white;
+    font-family: sans-serif;
+    font-size:60px;
+}
+
+.head{
+    text-align: center;
+}
+.hr{
+    margin-left: 400px;
+    margin-top: 36px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+        
+
+}
+
+.bt1{
+    
+    margin-right: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #eeeeee;
+    background: url("images/back.jpg");
+    font-size:x-large;
+    font-family: sans-serif;
+}
+.bt2{
+    
+    margin-right: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #eeeeee;
+    background: url("images/back.jpg");
+    font-size:x-large;
+    font-family: sans-serif;
+}
+.bt3{
+    
+    margin-right: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #eeeeee;
+    background: url("images/back.jpg");
+    font-size:x-large;
+    font-family: sans-serif;
+}
+.bt4{
+  
+    margin-right: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #eeeeee;
+    background: url("images/back.jpg");
+    font-size:x-large;
+    font-family: sans-serif;
+}
+.bt5{
+    
+    margin-right: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #eeeeee;
+    background: url("images/back.jpg");
+    font-size:x-large;
+    font-family: sans-serif;
+}
+.bt6{
+
+    margin-right: 30px;
+    font-weight: bold;
+    color: #eeeeee;
+    background: url("images/back.jpg");
+    text-decoration: none;
+    font-size:x-large;
+    font-family: sans-serif;
+}
+.main-body{
+    
+    
+    margin: 0px;
+    width: 100%;
+    height:620px;
+}
+.title{
+    text-align: center;
+   padding-top: 20px;
+
+}
+.gt{
+    color: #eeeeee;
+    margin: 0px;
+    font-family: sans-serif;
+    font-size: 100px;
+}
+.gt2{
+    color: #eeeeee;
+    
+}
+.f{
+    width: 100%;
+    display: inline-flex;
+}
+
+
+label{
+    color: #eeeeee;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    
+    
+    width: 200px;
+    text-align: left;
+     
+    
+ 
+}
+.form{
+    padding-left: 10%;
+    width:40%;
+    margin-left:0;
+    
+    
+
+}
+.inp{
+    padding-bottom: 10px;
+}
+
+.submit{
+    font-size: 20px;
+    height: 40px;
+    width: 100px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    
+    background: black;
+    color: #eeeeee;
+}
+.info{
+    margin-top: 26.5px;
+    padding-left: 10%;
+}
+.intro{
+    display: inline-flex;
+}
+.simg{
+    margin-right:50% ;
+}
+.txt{
+margin-top: 20%;
+}
+.lang1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.html{
+    margin-right: 150px;
+    margin-left: 100px;
+}
+.lang2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cpp{
+    height: 200px;
+    width: 300px;
+}
+.py{
+    height: 200px;
+    width: 300px;
+    margin-right: 350px;
+
+}
+.npm{
+    height: 300px;
+    width: 600px;
+}
+.htm{
+    height: 200px;
+    width: 400px;
+
+}
+.lang{
+    margin-top: 0px;
+    display:flexbox;
+}
+.hd{
+    color: white;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    margin-bottom: 0px;
+    
+}
+.hea{
+    text-align: center;
+    margin-bottom: 0px;
+}
